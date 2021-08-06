@@ -9,6 +9,8 @@ div {
  #big_div {
     display: flex;
     justify-content: space-around;
+    border: 10px solid black;
+    font-size: 22px;
  }
  img {
     align-items: center;
@@ -23,3 +25,25 @@ div {
     text-align: center;;  
     text-decoration: none;
  }
+ #social {
+      font-size: 22px;
+ }
+
+ a {
+    color: lightcoral ;
+   font-size: 17px;
+ }
+ #Ach {
+   font-size: 22px;
+}
+#About{
+   font-size: 26px;
+}
+
+#Hob{
+   font-size: 22px;
+}
+
+#Ext{
+   font-size: 22px;
+}
